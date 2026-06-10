@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore")
 # ── Page Config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Heart Disease Prediction",
-    page_icon="❤️",
+    page_icon="🩺",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -96,7 +96,7 @@ def predict(inputs, model, scaler, feature_names):
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## ❤️ Disease Prediction")
+    st.markdown("## Disease Prediction")
     st.markdown("**CodeAlpha ML Internship**")
     st.markdown("**Intern:** Prajwal Mesare")
     st.markdown("**Model:** Gradient Boosting")
@@ -114,7 +114,7 @@ with st.sidebar:
 # ── Header ────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="header">
-    <h1>❤️ Heart Disease Prediction</h1>
+    <h1>Disease Prediction from Medical Data</h1>
     <p>Kaggle — UCI Heart Disease Dataset | Clinical Risk Assessment | CodeAlpha ML Internship</p>
 </div>
 """, unsafe_allow_html=True)
