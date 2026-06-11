@@ -1,6 +1,6 @@
 """
 app.py — Task 4: Disease Prediction from Medical Data
-CodeAlpha ML Internship
+Personal ML Project
 Author: Prajwal Mesare | github.com/PrajwalMesare
 """
 
@@ -97,8 +97,8 @@ def predict(inputs, model, scaler, feature_names):
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## Disease Prediction")
-    st.markdown("**CodeAlpha ML Internship**")
-    st.markdown("**Intern:** Prajwal Mesare")
+    st.markdown("**Personal ML Project**")
+    st.markdown("**Developer:** Prajwal Mesare")
     st.markdown("**Model:** Gradient Boosting")
     st.markdown("**ROC-AUC:** 0.8366")
     st.markdown("---")
@@ -115,7 +115,7 @@ with st.sidebar:
 st.markdown("""
 <div class="header">
     <h1>Disease Prediction from Medical Data</h1>
-    <p>Kaggle — UCI Heart Disease Dataset | Clinical Risk Assessment | CodeAlpha ML Internship</p>
+    <p>Kaggle — UCI Heart Disease Dataset | Clinical Risk Assessment | Personal ML Project</p>
 </div>
 """, unsafe_allow_html=True)
 
