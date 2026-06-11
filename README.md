@@ -1,4 +1,5 @@
-# CodeAlpha_DiseasePrediction
+# CodeAlpha Disease Prediction from Medical Data
+**Disease Prediction from Medical Data**
 
 <div align="center">
 
