@@ -43,7 +43,7 @@ Predict the **presence of heart disease** from clinical patient data using the *
 ## 🗂️ Project Structure
 
 ```
-CodeAlpha_DiseasePrediction/
+Disease-Prediction-from-Medical-Data/
 │
 ├── disease_prediction_model.ipynb   ← Full ML pipeline notebook
 ├── model.py                         ← Standalone inference module

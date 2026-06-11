@@ -1,6 +1,6 @@
 """
 disease_prediction — model.py
-CodeAlpha Internship Task 4
+Personal ML Project — Disease Prediction
 Author : Prajwal Mesare
 GitHub : github.com/PrajwalMesare
 
