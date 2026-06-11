@@ -1,4 +1,4 @@
-# ❤️ CodeAlpha_DiseasePrediction
+# CodeAlpha_DiseasePrediction
 
 <div align="center">
 
